@@ -1,2 +1,2 @@
-# consoleApp
-My testing ConsoleApp
+# BMI calculator
+Console version of BMI calculator
